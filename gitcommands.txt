@@ -1,0 +1,7 @@
+git status
+
+git add Sample.txt
+
+git commit -m "second commit" Sample.txt
+
+git push -u origin master
